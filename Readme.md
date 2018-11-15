@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CompoundPrinting/Form1.cs) (VB: [Form1.vb](./VB/CompoundPrinting/Form1.vb))
+* [Form1.Designer.cs](./CS/CompoundPrinting/Form1.Designer.cs) (VB: [Form1.Designer.vb](./VB/CompoundPrinting/Form1.Designer.vb))
+<!-- default file list end -->
 # How to render several grid controls on one printed document
 
 
