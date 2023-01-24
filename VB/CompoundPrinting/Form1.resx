@@ -136,21 +136,21 @@
     <value>636, 17</value>
   </metadata>
   
-  <data name="categoriesViewLink.ImageCollection.ImageStream" type="DevExpress.Utils.ImageCollectionStreamer, DevExpress.Utils.v15.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="categoriesViewLink.ImageCollection.ImageStream" type="DevExpress.Utils.ImageCollectionStreamer, DevExpress.Utils.v13.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLlV0aWxzLnY5LjEsIFZlcnNpb249OS4xLjEx
         LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAKERl
         dkV4cHJlc3MuVXRpbHMuSW1hZ2VDb2xsZWN0aW9uU3RyZWFtZXIAAAAAAgAAAAs=
 </value>
   </data>
-  <data name="productsViewLink.ImageCollection.ImageStream" type="DevExpress.Utils.ImageCollectionStreamer, DevExpress.Utils.v15.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="productsViewLink.ImageCollection.ImageStream" type="DevExpress.Utils.ImageCollectionStreamer, DevExpress.Utils.v13.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLlV0aWxzLnY5LjEsIFZlcnNpb249OS4xLjEx
         LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAKERl
         dkV4cHJlc3MuVXRpbHMuSW1hZ2VDb2xsZWN0aW9uU3RyZWFtZXIAAAAAAgAAAAs=
 </value>
   </data>
-  <data name="compositeLink.ImageCollection.ImageStream" type="DevExpress.Utils.ImageCollectionStreamer, DevExpress.Utils.v15.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="compositeLink.ImageCollection.ImageStream" type="DevExpress.Utils.ImageCollectionStreamer, DevExpress.Utils.v13.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLlV0aWxzLnY5LjEsIFZlcnNpb249OS4xLjEx
         LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAKERl
